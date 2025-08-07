@@ -159,7 +159,7 @@ const API_SITES = {
         name: '樱花资源'
     },
     hongniu: {
-        api: 'https:www.hongniuzy2.com/api.php/provide/vod/',
+        api: 'https://www.hongniuzy2.com/api.php/provide/vod/',
         name: '红牛资源'
     },
 	gszy: {
