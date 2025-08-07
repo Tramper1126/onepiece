@@ -158,7 +158,7 @@ const API_SITES = {
          api: 'https://hsckzy.vip/api.php/provide/vod/',
          name: '黄色仓库',
          adult: true,
-         detail: 'https:hsckzy.vip'
+         detail: 'https://hsckzy.vip'
      },
      yutuzy: {
          api: 'https://yutuzy10.com/api.php/provide/vod/',
