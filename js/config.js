@@ -45,7 +45,7 @@ const API_SITES = {
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod/',
         name: '非凡影视',
-        detail: 'http:ffzy5.tv'
+        detail: 'http://ffzy5.tv'
     },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod/',
@@ -106,7 +106,7 @@ const API_SITES = {
         name: 'iKun资源'
     },
 	subo: {
-        api: 'https://subocaiji.com/api.php/provide/vod',
+        api: 'https://subocaiji.com/api.php/provide/vod/',
         name: '速播资源'
     },
     fczy: {
