@@ -17,6 +17,7 @@ const SITE_CONFIG = {
     url: 'https://libretv.is-an.org',
     description: '放下个人素质，享受缺德人生',
     logo: 'image/logo.png',
+    version: '1.0.3'
 };
 
 // API站点配置
