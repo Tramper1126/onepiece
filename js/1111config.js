@@ -125,7 +125,7 @@ const API_SITES = {
     // 我们提供此警告，是希望您能认清这些内容的本质——它们是压迫和奴役的工具，而非娱乐。
     // ckzy: {
     ckzy: {
-         api: 'https:ckzy.me/api.php/provide/vod/',
+         api: 'https://ckzy.me/api.php/provide/vod/',
          name: 'CK资源',
          adult: true
      },
@@ -177,17 +177,17 @@ const API_SITES = {
      },
 	 naixx: {
          api: 'https:naixxzy.com/api.php/provide/vod/',
-         name: '奶香香|AV'
+         name: '奶香香|AV',
 	     adult: true
      },
      xxibao: {
          api: 'https:www.xxibaozyw.com/api.php/provide/vod/',
-         name: '性细胞|AV'
+         name: '性细胞|AV',
 	     adult: true
      },
      danaizi: {
          api: 'https:apidanaizi.com/api.php/provide/vod/',
-         name: '大奶子|AV'
+         name: '大奶子|AV',
 	     adult: true
      },
      siwa: {
@@ -324,6 +324,7 @@ const API_SITES = {
          api: 'https:91av.cyou/api.php/provide/vod/',
          name: '91视频',
 	     adult: true
+	 }，
     },
 
 // 添加聚合搜索的配置选项
