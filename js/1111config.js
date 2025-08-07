@@ -325,7 +325,7 @@ const API_SITES = {
          name: '91视频',
 	     adult: true
 	 }，
-    },
+    };
 
 // 添加聚合搜索的配置选项
 const AGGREGATED_SEARCH_CONFIG = {
